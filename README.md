@@ -1,5 +1,5 @@
 # Abhishek's Gallery! 🖼📷
-As I deive into API exploration, I've decided to embark on developing a gallery application using the Pixels API. This endeavor presents a prime opportunity to not only understand API workings but also to bolster my development skills. By leveraging Pixels API's capabilities, I aim to craft a user-friendly interface that prioritizes seamless image browsing and quick downloads, fostering an immersive user experience. Through this project, I anticipate honing my understanding of API integration and HTTP methods while realizing the practical applications of my studies.
+As I delve into API exploration, I've decided to embark on developing a gallery application using the Pixels API. This endeavor presents a prime opportunity to not only understand API workings but also to bolster my development skills. By leveraging Pixels API's capabilities, I aim to craft a user-friendly interface that prioritizes seamless image browsing and quick downloads, fostering an immersive user experience. Through this project, I anticipate honing my understanding of API integration and HTTP methods while realizing the practical applications of my studies.
 
 I only used these:
 
@@ -10,7 +10,13 @@ I only used these:
 # Screen Shots :
 
 ![A](https://github.com/Abhishek5165/Abhisheks_gallery/blob/main/images/A.png)
+
+# Keyword Based Search :
+
 ![B](https://github.com/Abhishek5165/Abhisheks_gallery/blob/main/images/B.png)
+
+# Download image in single click :
+
 ![B](https://github.com/Abhishek5165/Abhisheks_gallery/blob/main/images/C.png)
 
 # Installation 🔨⚙
