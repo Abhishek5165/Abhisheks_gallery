@@ -4,6 +4,7 @@ const loadMoreBtn = document.querySelector(".gallery .load-more");
 const lightbox = document.querySelector(".lightbox");
 const downloadImgBtn = lightbox.querySelector(".uil-import");
 const closeImgBtn = lightbox.querySelector(".close-icon");
+document.addEventListener('contextmenu', event => event.preventDefault());
 
 const apiKey = "lr0Ti5IhFkbiByuLMGPI0xu2gyDVIyCay8L0Otfp8HqFmxFIK0GXXkSA";
 const perPage = 30;
